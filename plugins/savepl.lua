@@ -66,11 +66,6 @@ load_document(msg.reply_id, saveplug, {msg=msg,name=name})
 end
 end
 return {
-  advan = {
-    "Created by: @janlou & @Alirezamee",
-    "Powered by: @SUDO_TM & @AdvanTM",
-    "CopyRight all right reserved",
-  },
   patterns = {
    "^[!/#](save) (.*)$",
   },
