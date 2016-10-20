@@ -137,7 +137,6 @@ local function run(msg, matches)
     end
   end
 end
-
 return {
   patterns = {
     "^[#!/]([Ss]tats)$",
